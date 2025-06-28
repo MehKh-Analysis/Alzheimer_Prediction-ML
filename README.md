@@ -5,7 +5,7 @@ Alzheimer’s Disease (AD) is a progressive neurodegenerative condition affectin
 This project applies supervised machine learning to predict Alzheimer’s Disease diagnosis using structured patient data, including demographic, clinical, lifestyle, and cognitive assessment variables.
 
 ## 📊 Dataset Overview
-Source: (Kaggle)[https://www.kaggle.com/datasets/rabieelkharoua/alzheimers-disease-dataset/data]
+Source: [Kaggle](https://www.kaggle.com/datasets/rabieelkharoua/alzheimers-disease-dataset/data)
 
 Size: 2,419 patient records
 
