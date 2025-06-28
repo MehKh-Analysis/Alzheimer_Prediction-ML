@@ -1,0 +1,10 @@
+# Core Data Science Libraries
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+
+# Model Explainability
+shap
+
